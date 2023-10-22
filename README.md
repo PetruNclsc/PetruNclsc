@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/PetruNclsc/ActiveDirectoryLab)
 
 
-<h2>Certifications</h2>
+<h2> 📜 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate - Foundations of Cybersecurity](https://coursera.org/share/29037608199ccc3f53784239257a11ab)
 
