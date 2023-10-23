@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
   - [Active Directory Home Lab](https://github.com/PetruNclsc/ActiveDirectoryLab)
+  - [Fictional Security Audit - Botium Toys](https://github.com/PetruNclsc/SecurityAuditBotiumToys)
 
 
 <h2> 📜 Certifications</h2>
