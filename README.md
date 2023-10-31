@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/PetruNclsc/ActiveDirectoryLab)
+  - [Fictional Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/PetruNclsc/IncidentReportNetTrafficAnalysisis1)
   - [Fictional Security Audit - Botium Toys](https://github.com/PetruNclsc/SecurityAuditBotiumToys)
 
 
