@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Fictional Cybersecurity Incident Report: Network Traffic Analysis](https://github.com/PetruNclsc/IncidentReportNetTrafficAnalysisis1)
-  - [Fictional Security Audit - Botium Toys](https://github.com/PetruNclsc/SecurityAuditBotiumToys)
+  - [Fictional Cybersecurity Incident Report](https://github.com/PetruNclsc/IncidentReportNetTrafficAnalysisis1)
+  - [Fictional Security Audit (Botium Toys)](https://github.com/PetruNclsc/SecurityAuditBotiumToys)
 
 
 <h2> 📜 Certifications</h2>
