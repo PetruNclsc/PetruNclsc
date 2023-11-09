@@ -4,6 +4,7 @@
 
   - [Fictional Cybersecurity Incident Report](https://github.com/PetruNclsc/IncidentReportNetTrafficAnalysisis1)
   - [Fictional Security Audit (Botium Toys)](https://github.com/PetruNclsc/SecurityAuditBotiumToys)
+  - [Coursera Guided Project](https://github.com/PetruNclsc/IncidentReportNetTrafficAnalysisis1)
 
 
 <h2> 📜 Certifications</h2>
