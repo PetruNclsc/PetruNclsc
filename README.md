@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+  - [Coursera Guided Projects](https://github.com/PetruNclsc/CourseraGuidedProjects)
   - [Fictional Cybersecurity Incident Report](https://github.com/PetruNclsc/IncidentReportNetTrafficAnalysisis1)
   - [Fictional Security Audit (Botium Toys)](https://github.com/PetruNclsc/SecurityAuditBotiumToys)
-  - [Coursera Guided Projects](https://github.com/PetruNclsc/CourseraGuidedProjects)
-
 
 <h2> 📜 Certifications</h2>
 
