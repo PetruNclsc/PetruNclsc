@@ -8,7 +8,7 @@
 
 <h2> 📜 Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate - ███ 62.5% (5/8)](https://www.linkedin.com/in/petru-niculescu/details/certifications/)
+- [Google Cybersecurity Professional Certificate - (https://www.coursera.org/account/accomplishments/specialization/certificate/UR4GA7FXSSLF)
 
 <h2> 🤳 Connect with me:</h2>
 
